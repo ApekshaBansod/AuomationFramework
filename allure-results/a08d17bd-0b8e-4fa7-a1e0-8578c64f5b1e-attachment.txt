@@ -1,0 +1,2 @@
+Test failed: testRemoveItemFromCart
+Error: Initial cart should have 2 items expected [2] but found [0]

@@ -1,0 +1,2 @@
+Test failed: testCheckoutNavigation
+Error: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: checkout' (tried for 10 second(s) with 500 milliseconds interval)

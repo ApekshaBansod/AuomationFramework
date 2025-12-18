@@ -1,0 +1,2 @@
+Test failed: testCartItemDetails
+Error: Item quantity should be 1 expected [1] but found [0]
